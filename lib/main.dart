@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'eps1.dart';
+import 'eps2.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Eps1(),
+      home: Eps2(),
     );
   }
 }
