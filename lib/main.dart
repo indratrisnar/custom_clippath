@@ -1,5 +1,6 @@
 import 'package:custom_clippath/eps4.dart';
 import 'package:custom_clippath/eps5.dart';
+import 'package:custom_clippath/eps6.dart';
 import 'package:flutter/material.dart';
 
 import 'eps1.dart';
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Eps5(),
+      home: Eps6(),
     );
   }
 }
