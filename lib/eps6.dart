@@ -8,7 +8,7 @@ class Eps6 extends StatelessWidget {
     String imageUrl =
         'https://cdnb.artstation.com/p/assets/images/images/057/005/959/large/artgentle-22b.jpg?1670587993';
     return Scaffold(
-      appBar: AppBar(title: const Text('Eps 5')),
+      appBar: AppBar(title: const Text('Eps 6')),
       body: ListView(
         padding: const EdgeInsets.all(20),
         children: [
